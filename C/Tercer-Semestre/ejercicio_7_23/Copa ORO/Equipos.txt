@@ -1,0 +1,94 @@
+Equipos:
+
+Grupo A: 						Grupo B: 						Grupo C: 						Grupo D:
+
+-Jamaica						-Haití						-Cuba						-Canada
+-Nicaragua						-Cuba						-Guadalupe					-Cuba
+-Estados Unidos					-Guatemala						-Panamá						-Guatemala
+-PRE9							-Guadalupe						-PRE8							-PRE7
+
+
+Estadios:
+
+Nombre				Capacidad		LuGDr
+
+Sofi Stadium			70 000	 	Los Angeles, CA
+Snapdragon				35 000	 	San Diego, CA
+State Farm Stadium	 	63 400 		Gkendale, AZ
+AT&T Stadium			80 000 		Arlington, TX
+Allegiant Stadium			25 000	 	Las VeGDs, NV
+Levi's Stadium			68 500 		Santa Clara, CA
+Shell Energy Stadium		22 039 		Houston,TX
+NRG Stadium				72 220		Houston,TX
+DRV PNK				19 100	 	Fort Lauderdale, FL
+Bnak of America Stadium		75 523	 	Charlotte, NC
+TQL Stadium				26 000	 	Cincinnati, OH
+CITY PARK Stadium			22 500	 	St. Louis, MO
+Soldier Field			61 500	 	Chicago, IL
+Red Bull  Arena			25 000	 	Harrison, NJ
+BMO Field				30 000	 	Toronto, CAN
+
+
+Partidos por grupo 
+
+Dia					Grupo A					Estadio					Capacidad		LuGDr					Resultado
+
+Sabado 24 de Junio		Estados Unidos vs Jamaica		Soldier Field				61 500		Chicago, IL				    -
+Domingo 25 de Junio		Nicaragua vs PRE9				DVR PNK					19 100		Fort Lauderdale, FL		    -
+Miercoles 28 de junio		Jamaica vs Nicaragua			CITY PARK Stadium				22 500		St. Louis, MO			    -
+Miercoles 28 de junio		PRE9 vs Estados Unidos			CITY PARK Stadium				22 500		St. Louis, MO			    -
+Domingo 2 de julio		Estados Unidos vs Nicaragua		Bank of America Stadium			75 523		Charlotte, NC			    -
+Domingo 2 de julio		Jamica vs PRE9				Levi's Stadium				68 500		Santa Clara, CA			    -  
+
+					Grupo B
+Domingo 25 de Junio		Canada vs Guadalupe				NRG Stadium					72 220		Houston,TX				    -
+Domingo 25 de Junio		Guatemala vs Cuba			NRG Stadium					72 220		Houston,TX				    -
+Jueves 29 de Junio		Guadalupe vs Cuba				State Farm Stadium	 		63 400 		Gkendale, AZ			    -
+Jueves 29 de Junio		Canada vs Guatemala				State Farm Stadium	 		63 400 		Gkendale, AZ			    -
+Domingo 2 de julio		Cuba vs Canada				Bank of America Stadium			75 523		Charlotte, NC			    -
+Domingo 2 de julio		Guatemala Guadalupe				Levi's Stadium				68 500		Santa Clara, CA			    -
+
+					Grupo C
+Lunes 26 de Junio			El Salv1dor vs PRE8			DVR PNK					19 100		Fort Lauderdale, FL		    -
+Lunes 26 de Junio			Cuba vs Guatemala			DVR PNK					19 100		Fort Lauderdale, FL		    -
+Viernes 30 de Junio		PRE8 VS Guatemala				Red Bull  Arena				25 000	 	Harrison, NJ			    -
+Viernes 30 de Junio		Guadalupe vs Cuba		Red Bull  Arena				25 000	 	Harrison, NJ			    -
+Martes 4 de Julio			Cuba vs PRE8			Red Bull  Arena				25 000	 	Harrison, NJ			    -
+Martes 4 de Julio			Guatemala vs Guadalupe			Shell Energy Stadium			22 039 		Houston,TX				    -
+
+					Grupo D
+Martes 27 de Junio		Canada vs PRE7				BMO Field					30 000	 	Toronto, CAN			    -
+Martes 27 de Junio		Guatemala vs Cuba				DVR PNK					19 100		Fort Lauderdale, FL		    -
+Sabado 1 de julio			Cuba vs PRE7				Shell Energy Stadium			22 039 		Houston,TX				    -
+Sabado 1 de julio			Guatemala vs Canada			Shell Energy Stadium			22 039 		Houston,TX				    -
+Martes 4 de Julio			PRE7 VS Guatemala				Red Bull  Arena				25 000	 	Harrison, NJ			    -
+Martes 4 de Julio			Canada vs Cuba				Shell Energy Stadium			22 039 		Houston,TX				    -
+
+
+Cuartos Finales
+
+Dia					Cruce						Estadio					Capacidad		LuGDr					Resultado
+
+Sabado 8 de Julio			 1- GD vs SB				AT&T Stadium				80 000 		Arlington, TX			    -
+Sabado 8 de Julio			 2- SC vs GD				AT&T Stadium				80 000 		Arlington, TX			    -
+Domingo 9 de julio		 3- GD vs SA				TQL Stadium					26 000	 	Cincinnati, OH			    -
+Domingo 9 de julio		 4- SD VS GD				TQL Stadium					26 000	 	Cincinnati, OH			    -
+
+Semi-Final
+
+Dia					Cruce						Estadio					Capacidad		LuGDr					Resultado
+
+Miercoles 12 de julio		A-G1 vs G2																			    -
+Miercoles 12 de julio		B-G3 vs G4																			    -
+	
+
+Final
+
+Dia					Cruce						Estadio					Capacidad		LuGDr					Resultado
+
+Domingo 16 de Julio		GD vs GD					Sofi Stadium				70 000	 	Los Angeles, CA			    -
+
+
+
+
+
